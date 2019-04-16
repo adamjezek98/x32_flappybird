@@ -24,7 +24,7 @@ If you are worried about your faders, you can play the game on [Mixing Station](
 [Behringer X32 Flappy Bird in Mixing Station on YouTube](http://www.youtube.com/watch?v=9u2JLGnquyg "Behringer X32 Flappy Bird in Mixing Station")
 
 
-# X32 Waves
+# X32 Waves (Vegas mode)
 This just makes moving waves over the faders and does fancy stuff with displays. All channels and busses are affected. 
 If you are running X32Edit on your PC, I reccomend to kill it. It likes to freeze once I run this.
 [![Behringer X32 Waves](http://img.youtube.com/vi/a8QgwBLrPfk/0.jpg)](http://www.youtube.com/watch?v=a8QgwBLrPfk "Behringer X32 Waves")
